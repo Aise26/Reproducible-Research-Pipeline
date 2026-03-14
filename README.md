@@ -25,4 +25,8 @@ This project demonstrates a fully reproducible research workflow, from data inge
 - Automated reporting
 - Public health data storytelling
 
+# How to Run the Code
+All code is written in R and can be run in RStudio.
+Datasets are publicly available and linked in the data/raw/ folder.
+
 
